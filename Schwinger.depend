@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1525688778 source:/home/raynor/cpp_projects/Schwinger/main.cpp
+	<cmath>
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<cstdlib>
+	"lapacke.h"
+	"phi4.h"
+	"subspaces.h"
+
+1524562904 /home/raynor/cpp_projects/Schwinger/phi4.h
+	<vector>
+	<cmath>
+	<algorithm>
+
+1524563001 source:/home/raynor/cpp_projects/Schwinger/phi4.cpp
+	"phi4.h"
+	<iostream>
+
+1524605096 source:/home/raynor/cpp_projects/Schwinger/coo.cpp
+	"coo.h"
+	<iostream>
+	"phi4.h"
+
+1524605014 /home/raynor/cpp_projects/Schwinger/coo.h
+	<vector>
+	<algorithm>
+
+1524688597 source:/home/raynor/cpp_projects/Schwinger/subspaces.cpp
+	"subspaces.h"
+	<iostream>
+
+1521035875 /home/raynor/cpp_projects/Schwinger/subspaces.h
+	<vector>
+	<functional>
+	"coo.h"
+
